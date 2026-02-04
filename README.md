@@ -1,6 +1,5 @@
 # hksexdoll-automation-demo
 Lightweight automation demo exploring public page monitoring and OpenClaw-style workflows.
-# HKSexDoll Automation Demo
 
 This repository provides a lightweight **automation and monitoring demo** focused on publicly accessible web pages.
 
